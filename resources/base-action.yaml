@@ -1,0 +1,57 @@
+name: example-slug-here       # <-- put your slug here
+
+on:
+  push:
+    branches:
+      - test
+  workflow_dispatch:
+  schedule:
+    - cron: '11 0,6,12,18 * * *'     # <-- Set your cron here (UTC). Uses github which can be ~2-10 mins off.
+  # repository_dispatch:                               # <-- Alternate, more precise method using 
+  #     types:                                         #     AWS lambda + CloudWatch to trigger.
+  #         - cronbot-trigger-dev-every-two-minutes    #     See README! 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      
+      - uses: actions/checkout@master
+        with:
+            fetch-depth: 1
+            
+      # - name: setup python                  # <-- \/  This block enables non-default python versions
+      #   uses: actions/setup-python@v2
+      #   with:
+      #     python-version: '3.9.8' # see available versions: https://github.com/actions/virtual-environments/blob/main/images/linux/Ubuntu1804-README.md#python
+      # 
+      # - name: install python packages
+      #   run: |
+      #     python -m pip install --upgrade pip
+      #     pip install -r requirements.txt
+
+      - name: Process data
+        # env: 
+        #     MY_API_KEY: ${{ secrets.MY_API_KEY }}       # <-- enable secrets if using them ... see README
+        run: (cd ./bots/"$GITHUB_WORKFLOW" && make all)   # <-- change "make all" to your bot-running command
+      
+      - name: Upload to S3
+        env:
+          AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        run: (cd ./bots/"$GITHUB_WORKFLOW"/data && aws s3 sync . s3://$AWS_S3_BUCKET/"$GITHUB_WORKFLOW" --acl public-read --follow-symlinks --delete --region us-east-1)     # <-- remove "--delete" if you want to keep archived files
+        
+      # - name: Report status
+      #   if: always()
+      #   uses: ravsamhq/notify-slack-action@v1
+      #   with:
+      #     status: ${{ job.status }}
+      #     notification_title: '*Cronbot issue:*'
+      #     message_format: '{emoji} *{workflow}* has {status_message}.'
+      #     footer: '<{run_url}|View this run on Github.>'
+      #     notify_when: 'failure'
+      #     # mention_users: 'U1234567890X'            # <-- optionally mention users (here, @John Keefe)
+      #     # mention_users_when: 'failure,warnings'  # <--
+      #   env:
+      #     SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK }}
