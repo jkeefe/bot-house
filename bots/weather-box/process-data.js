@@ -60,7 +60,7 @@ const formatData = (body) => {
             )} mph gusts`,
             icon: body.currently.icon
         },
-        alerts: body.alerts ? body.alerts : {}
+        alerts: body.alerts ? body.alerts : []
     };
 
     // build the hourly deets
