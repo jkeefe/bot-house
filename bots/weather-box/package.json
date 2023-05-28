@@ -12,6 +12,7 @@
   "type": "module",
   "dependencies": {
     "dayjs": "^1.11.6",
-    "dayjs-plugin-utc": "^0.1.2"
+    "dayjs-plugin-utc": "^0.1.2",
+    "xml-js": "^1.6.11"
   }
 }

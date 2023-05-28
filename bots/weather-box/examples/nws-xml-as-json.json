@@ -1,0 +1,682 @@
+{
+    "declaration": {
+        "attributes": {
+            "version": "1.0",
+            "encoding": "UTF-8"
+        }
+    },
+    "elements": [
+        {
+            "type": "element",
+            "name": "dwml",
+            "attributes": {
+                "version": "1.0",
+                "xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+                "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                "xsi:noNamespaceSchemaLocation": "https://digital.mdl.nws.noaa.gov/xml/schema/DWML.xsd"
+            },
+            "elements": [
+                {
+                    "type": "element",
+                    "name": "head",
+                    "elements": [
+                        {
+                            "type": "element",
+                            "name": "product",
+                            "attributes": {
+                                "srsName": "WGS 1984",
+                                "concise-name": "time-series",
+                                "operational-mode": "official"
+                            },
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "title",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "NOAA's National Weather Service Forecast Data"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "field",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "meteorological"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "category",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "forecast"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "creation-date",
+                                    "attributes": {
+                                        "refresh-frequency": "PT30M"
+                                    },
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-05-28T16:37:56Z"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "source",
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "more-information",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://digital.mdl.nws.noaa.gov/xml/"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "production-center",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Meteorological Development Laboratory"
+                                        },
+                                        {
+                                            "type": "element",
+                                            "name": "sub-center",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Weather Information Applications Division"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "disclaimer",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "http://www.nws.noaa.gov/disclaimer.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "credit",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.weather.gov/"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "credit-logo",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.weather.gov/logorequest"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "feedback",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.weather.gov/contact"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "element",
+                    "name": "data",
+                    "elements": [
+                        {
+                            "type": "element",
+                            "name": "location",
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "location-key",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "point1"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "point",
+                                    "attributes": {
+                                        "latitude": "40.87",
+                                        "longitude": "-73.92"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "moreWeatherInformation",
+                            "attributes": {
+                                "applicable-location": "point1"
+                            },
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "http://forecast.weather.gov/MapClick.php?textField1=40.87&textField2=-73.92"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "time-layout",
+                            "attributes": {
+                                "time-coordinate": "local",
+                                "summarization": "none"
+                            },
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "layout-key",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "k-p24h-n7-1"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "start-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-05-28T08:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "end-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-05-28T20:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "start-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-05-29T08:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "end-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-05-29T20:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "start-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-05-30T08:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "end-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-05-30T20:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "start-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-05-31T08:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "end-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-05-31T20:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "start-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-06-01T08:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "end-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-06-01T20:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "start-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-06-02T08:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "end-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-06-02T20:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "start-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-06-03T08:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "end-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-06-03T20:00:00-04:00"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "time-layout",
+                            "attributes": {
+                                "time-coordinate": "local",
+                                "summarization": "none"
+                            },
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "layout-key",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "k-p24h-n6-2"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "start-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-05-28T20:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "end-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-05-29T09:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "start-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-05-29T20:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "end-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-05-30T09:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "start-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-05-30T20:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "end-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-05-31T09:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "start-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-05-31T20:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "end-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-06-01T09:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "start-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-06-01T20:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "end-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-06-02T09:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "start-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-06-02T20:00:00-04:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "end-valid-time",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "2023-06-03T09:00:00-04:00"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "parameters",
+                            "attributes": {
+                                "applicable-location": "point1"
+                            },
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "temperature",
+                                    "attributes": {
+                                        "type": "maximum",
+                                        "units": "Fahrenheit",
+                                        "time-layout": "k-p24h-n7-1"
+                                    },
+                                    "elements": [
+                                        {
+                                            "type": "element",
+                                            "name": "name",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Daily Maximum Temperature"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "element",
+                                            "name": "value",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "80"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "element",
+                                            "name": "value",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "80"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "element",
+                                            "name": "value",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "73"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "element",
+                                            "name": "value",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "79"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "element",
+                                            "name": "value",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "89"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "element",
+                                            "name": "value",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "91"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "element",
+                                            "name": "value",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "81"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "temperature",
+                                    "attributes": {
+                                        "type": "minimum",
+                                        "units": "Fahrenheit",
+                                        "time-layout": "k-p24h-n6-2"
+                                    },
+                                    "elements": [
+                                        {
+                                            "type": "element",
+                                            "name": "name",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Daily Minimum Temperature"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "element",
+                                            "name": "value",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "59"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "element",
+                                            "name": "value",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "55"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "element",
+                                            "name": "value",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "53"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "element",
+                                            "name": "value",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "60"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "element",
+                                            "name": "value",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "66"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "element",
+                                            "name": "value",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "64"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -41,8 +41,7 @@ const getHour = time => {
 
 const getData = async (filename) => {
 
-    let rawdata = fs.readFileSync(filename);
-    const data = JSON.parse(rawdata)
+    let data = fs.readFileSync(filename, { encoding: 'utf-8' });
     return data
 
 }
