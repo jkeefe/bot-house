@@ -1,1 +1,537 @@
-{"k-p24h-n7-1":[{"valid_start":"2023-05-28T08:00:00-04:00","valid_end":"2023-05-28T20:00:00-04:00","temperature_maximum":"80"},{"valid_start":"2023-05-29T08:00:00-04:00","valid_end":"2023-05-29T20:00:00-04:00","temperature_maximum":"80"},{"valid_start":"2023-05-30T08:00:00-04:00","valid_end":"2023-05-30T20:00:00-04:00","temperature_maximum":"73"},{"valid_start":"2023-05-31T08:00:00-04:00","valid_end":"2023-05-31T20:00:00-04:00","temperature_maximum":"79"},{"valid_start":"2023-06-01T08:00:00-04:00","valid_end":"2023-06-01T20:00:00-04:00","temperature_maximum":"89"},{"valid_start":"2023-06-02T08:00:00-04:00","valid_end":"2023-06-02T20:00:00-04:00","temperature_maximum":"91"},{"valid_start":"2023-06-03T08:00:00-04:00","valid_end":"2023-06-03T20:00:00-04:00","temperature_maximum":"81"}],"k-p24h-n6-2":[{"valid_start":"2023-05-28T20:00:00-04:00","valid_end":"2023-05-29T09:00:00-04:00","temperature_minimum":"59"},{"valid_start":"2023-05-29T20:00:00-04:00","valid_end":"2023-05-30T09:00:00-04:00","temperature_minimum":"55"},{"valid_start":"2023-05-30T20:00:00-04:00","valid_end":"2023-05-31T09:00:00-04:00","temperature_minimum":"53"},{"valid_start":"2023-05-31T20:00:00-04:00","valid_end":"2023-06-01T09:00:00-04:00","temperature_minimum":"60"},{"valid_start":"2023-06-01T20:00:00-04:00","valid_end":"2023-06-02T09:00:00-04:00","temperature_minimum":"66"},{"valid_start":"2023-06-02T20:00:00-04:00","valid_end":"2023-06-03T09:00:00-04:00","temperature_minimum":"64"}],"k-p1h-n58-3":[{"valid_start":"2023-05-28T15:00:00-04:00","temperature_hourly":"79","wind_speed_sustained":"7","temperature_apparent":"79","wind_speed_gust":"8","conditions-icon":"http://forecast.weather.gov/images/wtf/few.jpg"},{"valid_start":"2023-05-28T16:00:00-04:00","temperature_hourly":"78","wind_speed_sustained":"8","temperature_apparent":"78","wind_speed_gust":"9","conditions-icon":"http://forecast.weather.gov/images/wtf/few.jpg"},{"valid_start":"2023-05-28T17:00:00-04:00","temperature_hourly":"77","wind_speed_sustained":"9","temperature_apparent":"77","wind_speed_gust":"10","conditions-icon":"http://forecast.weather.gov/images/wtf/few.jpg"},{"valid_start":"2023-05-28T18:00:00-04:00","temperature_hourly":"75","wind_speed_sustained":"8","temperature_apparent":"75","wind_speed_gust":"10","conditions-icon":"http://forecast.weather.gov/images/wtf/few.jpg"},{"valid_start":"2023-05-28T19:00:00-04:00","temperature_hourly":"72","wind_speed_sustained":"8","temperature_apparent":"72","wind_speed_gust":"10","conditions-icon":"http://forecast.weather.gov/images/wtf/few.jpg"},{"valid_start":"2023-05-28T20:00:00-04:00","temperature_hourly":"69","wind_speed_sustained":"7","temperature_apparent":"69","wind_speed_gust":"8","conditions-icon":"http://forecast.weather.gov/images/wtf/few.jpg"},{"valid_start":"2023-05-28T21:00:00-04:00","temperature_hourly":"67","wind_speed_sustained":"6","temperature_apparent":"67","wind_speed_gust":"10","conditions-icon":"http://forecast.weather.gov/images/wtf/nfew.jpg"},{"valid_start":"2023-05-28T22:00:00-04:00","temperature_hourly":"65","wind_speed_sustained":"5","temperature_apparent":"65","wind_speed_gust":"9","conditions-icon":"http://forecast.weather.gov/images/wtf/nfew.jpg"},{"valid_start":"2023-05-28T23:00:00-04:00","temperature_hourly":"64","wind_speed_sustained":"5","temperature_apparent":"64","wind_speed_gust":"7","conditions-icon":"http://forecast.weather.gov/images/wtf/nfew.jpg"},{"valid_start":"2023-05-29T00:00:00-04:00","temperature_hourly":"62","wind_speed_sustained":"4","temperature_apparent":"62","wind_speed_gust":"6","conditions-icon":"http://forecast.weather.gov/images/wtf/nfew.jpg"},{"valid_start":"2023-05-29T01:00:00-04:00","temperature_hourly":"62","wind_speed_sustained":"4","temperature_apparent":"62","wind_speed_gust":"5","conditions-icon":"http://forecast.weather.gov/images/wtf/nfew.jpg"},{"valid_start":"2023-05-29T02:00:00-04:00","temperature_hourly":"61","wind_speed_sustained":"3","temperature_apparent":"61","wind_speed_gust":"4","conditions-icon":"http://forecast.weather.gov/images/wtf/nfew.jpg"},{"valid_start":"2023-05-29T03:00:00-04:00","temperature_hourly":"60","wind_speed_sustained":"3","temperature_apparent":"60","wind_speed_gust":"4","conditions-icon":"http://forecast.weather.gov/images/wtf/nfew.jpg"},{"valid_start":"2023-05-29T04:00:00-04:00","temperature_hourly":"59","wind_speed_sustained":"2","temperature_apparent":"59","wind_speed_gust":"3","conditions-icon":"http://forecast.weather.gov/images/wtf/nsct.jpg"},{"valid_start":"2023-05-29T05:00:00-04:00","temperature_hourly":"59","wind_speed_sustained":"2","temperature_apparent":"59","wind_speed_gust":"3","conditions-icon":"http://forecast.weather.gov/images/wtf/nsct.jpg"},{"valid_start":"2023-05-29T06:00:00-04:00","temperature_hourly":"61","wind_speed_sustained":"2","temperature_apparent":"61","wind_speed_gust":"4","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-05-29T07:00:00-04:00","temperature_hourly":"63","wind_speed_sustained":"3","temperature_apparent":"63","wind_speed_gust":"5","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-05-29T08:00:00-04:00","temperature_hourly":"67","wind_speed_sustained":"4","temperature_apparent":"67","wind_speed_gust":"7","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-05-29T09:00:00-04:00","temperature_hourly":"70","wind_speed_sustained":"6","temperature_apparent":"70","wind_speed_gust":"11","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-05-29T10:00:00-04:00","temperature_hourly":"73","wind_speed_sustained":"9","temperature_apparent":"73","wind_speed_gust":"14","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-05-29T11:00:00-04:00","temperature_hourly":"75","wind_speed_sustained":"11","temperature_apparent":"75","wind_speed_gust":"18","conditions-icon":"http://forecast.weather.gov/images/wtf/few.jpg"},{"valid_start":"2023-05-29T12:00:00-04:00","temperature_hourly":"77","wind_speed_sustained":"12","temperature_apparent":"77","wind_speed_gust":"18","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-05-29T13:00:00-04:00","temperature_hourly":"78","wind_speed_sustained":"12","temperature_apparent":"78","wind_speed_gust":"19","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-05-29T14:00:00-04:00","temperature_hourly":"79","wind_speed_sustained":"12","temperature_apparent":"79","wind_speed_gust":"19","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-05-29T15:00:00-04:00","temperature_hourly":"78","wind_speed_sustained":"12","temperature_apparent":"78","wind_speed_gust":"19","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-05-29T16:00:00-04:00","temperature_hourly":"76","wind_speed_sustained":"12","temperature_apparent":"76","wind_speed_gust":"18","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-05-29T17:00:00-04:00","temperature_hourly":"75","wind_speed_sustained":"12","temperature_apparent":"75","wind_speed_gust":"18","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-05-29T18:00:00-04:00","temperature_hourly":"72","wind_speed_sustained":"11","temperature_apparent":"72","wind_speed_gust":"17","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-05-29T19:00:00-04:00","temperature_hourly":"70","wind_speed_sustained":"11","temperature_apparent":"70","wind_speed_gust":"17","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-05-29T20:00:00-04:00","temperature_hourly":"68","wind_speed_sustained":"10","temperature_apparent":"68","wind_speed_gust":"16","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-05-29T21:00:00-04:00","temperature_hourly":"65","wind_speed_sustained":"10","temperature_apparent":"65","wind_speed_gust":"15","conditions-icon":"http://forecast.weather.gov/images/wtf/nsct.jpg"},{"valid_start":"2023-05-29T22:00:00-04:00","temperature_hourly":"64","wind_speed_sustained":"9","temperature_apparent":"64","wind_speed_gust":"15","conditions-icon":"http://forecast.weather.gov/images/wtf/nsct.jpg"},{"valid_start":"2023-05-29T23:00:00-04:00","temperature_hourly":"62","wind_speed_sustained":"9","temperature_apparent":"62","wind_speed_gust":"14","conditions-icon":"http://forecast.weather.gov/images/wtf/nsct.jpg"},{"valid_start":"2023-05-30T00:00:00-04:00","temperature_hourly":"60","wind_speed_sustained":"8","temperature_apparent":"60","wind_speed_gust":"13","conditions-icon":"http://forecast.weather.gov/images/wtf/nsct.jpg"},{"valid_start":"2023-05-30T01:00:00-04:00","temperature_hourly":"59","wind_speed_sustained":"8","temperature_apparent":"59","wind_speed_gust":"13","conditions-icon":"http://forecast.weather.gov/images/wtf/nsct.jpg"},{"valid_start":"2023-05-30T02:00:00-04:00","temperature_hourly":"58","wind_speed_sustained":"8","temperature_apparent":"58","wind_speed_gust":"12","conditions-icon":"http://forecast.weather.gov/images/wtf/nsct.jpg"},{"valid_start":"2023-05-30T05:00:00-04:00","temperature_hourly":"55","wind_speed_sustained":"7","temperature_apparent":"55","wind_speed_gust":"10","conditions-icon":"http://forecast.weather.gov/images/wtf/nsct.jpg"},{"valid_start":"2023-05-30T08:00:00-04:00","temperature_hourly":"59","wind_speed_sustained":"8","temperature_apparent":"59","wind_speed_gust":"12","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-05-30T11:00:00-04:00","temperature_hourly":"67","wind_speed_sustained":"8","temperature_apparent":"67","wind_speed_gust":"12","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-05-30T14:00:00-04:00","temperature_hourly":"71","wind_speed_sustained":"8","temperature_apparent":"71","wind_speed_gust":"12","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-05-30T17:00:00-04:00","temperature_hourly":"72","wind_speed_sustained":"8","temperature_apparent":"72","wind_speed_gust":"15","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-05-30T20:00:00-04:00","temperature_hourly":"66","wind_speed_sustained":"7","temperature_apparent":"66","wind_speed_gust":"11","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-05-31T02:00:00-04:00","temperature_hourly":"55","wind_speed_sustained":"3","temperature_apparent":"55","wind_speed_gust":"6","conditions-icon":"http://forecast.weather.gov/images/wtf/nsct.jpg"},{"valid_start":"2023-05-31T08:00:00-04:00","temperature_hourly":"59","wind_speed_sustained":"3","temperature_apparent":"59","wind_speed_gust":"7","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-05-31T14:00:00-04:00","temperature_hourly":"77","wind_speed_sustained":"5","temperature_apparent":"77","wind_speed_gust":"9","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-05-31T20:00:00-04:00","temperature_hourly":"70","wind_speed_sustained":"8","temperature_apparent":"70","wind_speed_gust":"14","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-06-01T02:00:00-04:00","temperature_hourly":"62","wind_speed_sustained":"4","temperature_apparent":"62","wind_speed_gust":"6","conditions-icon":"http://forecast.weather.gov/images/wtf/nsct.jpg"},{"valid_start":"2023-06-01T08:00:00-04:00","temperature_hourly":"66","wind_speed_sustained":"4","temperature_apparent":"66","wind_speed_gust":"6","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-06-01T14:00:00-04:00","temperature_hourly":"86","wind_speed_sustained":"6","temperature_apparent":"84","wind_speed_gust":"8","conditions-icon":"http://forecast.weather.gov/images/wtf/few.jpg"},{"valid_start":"2023-06-01T20:00:00-04:00","temperature_hourly":"78","wind_speed_sustained":"7","temperature_apparent":"78","wind_speed_gust":"9","conditions-icon":"http://forecast.weather.gov/images/wtf/few.jpg"},{"valid_start":"2023-06-02T02:00:00-04:00","temperature_hourly":"68","wind_speed_sustained":"6","temperature_apparent":"68","wind_speed_gust":"8","conditions-icon":"http://forecast.weather.gov/images/wtf/nfew.jpg"},{"valid_start":"2023-06-02T08:00:00-04:00","temperature_hourly":"72","wind_speed_sustained":"6","temperature_apparent":"72","wind_speed_gust":"8","conditions-icon":"http://forecast.weather.gov/images/wtf/few.jpg"},{"valid_start":"2023-06-02T14:00:00-04:00","temperature_hourly":"90","wind_speed_sustained":"10","temperature_apparent":"88","wind_speed_gust":"18","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-06-02T20:00:00-04:00","temperature_hourly":"83","wind_speed_sustained":"8","temperature_apparent":"82","wind_speed_gust":"14","conditions-icon":"http://forecast.weather.gov/images/wtf/hi_shwrs10.jpg"},{"valid_start":"2023-06-03T02:00:00-04:00","temperature_hourly":"69","wind_speed_sustained":"8","temperature_apparent":"69","wind_speed_gust":"14","conditions-icon":"http://forecast.weather.gov/images/wtf/nsct.jpg"},{"valid_start":"2023-06-03T08:00:00-04:00","temperature_hourly":"69","wind_speed_sustained":"8","temperature_apparent":"69","wind_speed_gust":"14","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-06-03T14:00:00-04:00","temperature_hourly":"79","wind_speed_sustained":"10","temperature_apparent":"79","wind_speed_gust":"15","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"},{"valid_start":"2023-06-03T20:00:00-04:00","temperature_hourly":"71","wind_speed_sustained":"10","temperature_apparent":"71","wind_speed_gust":"15","conditions-icon":"http://forecast.weather.gov/images/wtf/sct.jpg"}]}
+{
+    "k-p24h-n7-1": [
+        {
+            "valid_start": "2023-05-28T08:00:00-04:00",
+            "valid_end": "2023-05-28T20:00:00-04:00",
+            "temperature_maximum": "80"
+        },
+        {
+            "valid_start": "2023-05-29T08:00:00-04:00",
+            "valid_end": "2023-05-29T20:00:00-04:00",
+            "temperature_maximum": "80"
+        },
+        {
+            "valid_start": "2023-05-30T08:00:00-04:00",
+            "valid_end": "2023-05-30T20:00:00-04:00",
+            "temperature_maximum": "73"
+        },
+        {
+            "valid_start": "2023-05-31T08:00:00-04:00",
+            "valid_end": "2023-05-31T20:00:00-04:00",
+            "temperature_maximum": "79"
+        },
+        {
+            "valid_start": "2023-06-01T08:00:00-04:00",
+            "valid_end": "2023-06-01T20:00:00-04:00",
+            "temperature_maximum": "89"
+        },
+        {
+            "valid_start": "2023-06-02T08:00:00-04:00",
+            "valid_end": "2023-06-02T20:00:00-04:00",
+            "temperature_maximum": "91"
+        },
+        {
+            "valid_start": "2023-06-03T08:00:00-04:00",
+            "valid_end": "2023-06-03T20:00:00-04:00",
+            "temperature_maximum": "81"
+        }
+    ],
+    "k-p24h-n6-2": [
+        {
+            "valid_start": "2023-05-28T20:00:00-04:00",
+            "valid_end": "2023-05-29T09:00:00-04:00",
+            "temperature_minimum": "59"
+        },
+        {
+            "valid_start": "2023-05-29T20:00:00-04:00",
+            "valid_end": "2023-05-30T09:00:00-04:00",
+            "temperature_minimum": "55"
+        },
+        {
+            "valid_start": "2023-05-30T20:00:00-04:00",
+            "valid_end": "2023-05-31T09:00:00-04:00",
+            "temperature_minimum": "53"
+        },
+        {
+            "valid_start": "2023-05-31T20:00:00-04:00",
+            "valid_end": "2023-06-01T09:00:00-04:00",
+            "temperature_minimum": "60"
+        },
+        {
+            "valid_start": "2023-06-01T20:00:00-04:00",
+            "valid_end": "2023-06-02T09:00:00-04:00",
+            "temperature_minimum": "66"
+        },
+        {
+            "valid_start": "2023-06-02T20:00:00-04:00",
+            "valid_end": "2023-06-03T09:00:00-04:00",
+            "temperature_minimum": "64"
+        }
+    ],
+    "k-p1h-n58-3": [
+        {
+            "valid_start": "2023-05-28T15:00:00-04:00",
+            "temperature_hourly": "79",
+            "wind_speed_sustained": "7",
+            "temperature_apparent": "79",
+            "wind_speed_gust": "8",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/few.jpg"
+        },
+        {
+            "valid_start": "2023-05-28T16:00:00-04:00",
+            "temperature_hourly": "78",
+            "wind_speed_sustained": "8",
+            "temperature_apparent": "78",
+            "wind_speed_gust": "9",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/few.jpg"
+        },
+        {
+            "valid_start": "2023-05-28T17:00:00-04:00",
+            "temperature_hourly": "77",
+            "wind_speed_sustained": "9",
+            "temperature_apparent": "77",
+            "wind_speed_gust": "10",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/few.jpg"
+        },
+        {
+            "valid_start": "2023-05-28T18:00:00-04:00",
+            "temperature_hourly": "75",
+            "wind_speed_sustained": "8",
+            "temperature_apparent": "75",
+            "wind_speed_gust": "10",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/few.jpg"
+        },
+        {
+            "valid_start": "2023-05-28T19:00:00-04:00",
+            "temperature_hourly": "72",
+            "wind_speed_sustained": "8",
+            "temperature_apparent": "72",
+            "wind_speed_gust": "10",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/few.jpg"
+        },
+        {
+            "valid_start": "2023-05-28T20:00:00-04:00",
+            "temperature_hourly": "69",
+            "wind_speed_sustained": "7",
+            "temperature_apparent": "69",
+            "wind_speed_gust": "8",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/few.jpg"
+        },
+        {
+            "valid_start": "2023-05-28T21:00:00-04:00",
+            "temperature_hourly": "67",
+            "wind_speed_sustained": "6",
+            "temperature_apparent": "67",
+            "wind_speed_gust": "10",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/nfew.jpg"
+        },
+        {
+            "valid_start": "2023-05-28T22:00:00-04:00",
+            "temperature_hourly": "65",
+            "wind_speed_sustained": "5",
+            "temperature_apparent": "65",
+            "wind_speed_gust": "9",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/nfew.jpg"
+        },
+        {
+            "valid_start": "2023-05-28T23:00:00-04:00",
+            "temperature_hourly": "64",
+            "wind_speed_sustained": "5",
+            "temperature_apparent": "64",
+            "wind_speed_gust": "7",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/nfew.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T00:00:00-04:00",
+            "temperature_hourly": "62",
+            "wind_speed_sustained": "4",
+            "temperature_apparent": "62",
+            "wind_speed_gust": "6",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/nfew.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T01:00:00-04:00",
+            "temperature_hourly": "62",
+            "wind_speed_sustained": "4",
+            "temperature_apparent": "62",
+            "wind_speed_gust": "5",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/nfew.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T02:00:00-04:00",
+            "temperature_hourly": "61",
+            "wind_speed_sustained": "3",
+            "temperature_apparent": "61",
+            "wind_speed_gust": "4",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/nfew.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T03:00:00-04:00",
+            "temperature_hourly": "60",
+            "wind_speed_sustained": "3",
+            "temperature_apparent": "60",
+            "wind_speed_gust": "4",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/nfew.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T04:00:00-04:00",
+            "temperature_hourly": "59",
+            "wind_speed_sustained": "2",
+            "temperature_apparent": "59",
+            "wind_speed_gust": "3",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/nsct.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T05:00:00-04:00",
+            "temperature_hourly": "59",
+            "wind_speed_sustained": "2",
+            "temperature_apparent": "59",
+            "wind_speed_gust": "3",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/nsct.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T06:00:00-04:00",
+            "temperature_hourly": "61",
+            "wind_speed_sustained": "2",
+            "temperature_apparent": "61",
+            "wind_speed_gust": "4",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T07:00:00-04:00",
+            "temperature_hourly": "63",
+            "wind_speed_sustained": "3",
+            "temperature_apparent": "63",
+            "wind_speed_gust": "5",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T08:00:00-04:00",
+            "temperature_hourly": "67",
+            "wind_speed_sustained": "4",
+            "temperature_apparent": "67",
+            "wind_speed_gust": "7",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T09:00:00-04:00",
+            "temperature_hourly": "70",
+            "wind_speed_sustained": "6",
+            "temperature_apparent": "70",
+            "wind_speed_gust": "11",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T10:00:00-04:00",
+            "temperature_hourly": "73",
+            "wind_speed_sustained": "9",
+            "temperature_apparent": "73",
+            "wind_speed_gust": "14",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T11:00:00-04:00",
+            "temperature_hourly": "75",
+            "wind_speed_sustained": "11",
+            "temperature_apparent": "75",
+            "wind_speed_gust": "18",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/few.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T12:00:00-04:00",
+            "temperature_hourly": "77",
+            "wind_speed_sustained": "12",
+            "temperature_apparent": "77",
+            "wind_speed_gust": "18",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T13:00:00-04:00",
+            "temperature_hourly": "78",
+            "wind_speed_sustained": "12",
+            "temperature_apparent": "78",
+            "wind_speed_gust": "19",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T14:00:00-04:00",
+            "temperature_hourly": "79",
+            "wind_speed_sustained": "12",
+            "temperature_apparent": "79",
+            "wind_speed_gust": "19",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T15:00:00-04:00",
+            "temperature_hourly": "78",
+            "wind_speed_sustained": "12",
+            "temperature_apparent": "78",
+            "wind_speed_gust": "19",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T16:00:00-04:00",
+            "temperature_hourly": "76",
+            "wind_speed_sustained": "12",
+            "temperature_apparent": "76",
+            "wind_speed_gust": "18",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T17:00:00-04:00",
+            "temperature_hourly": "75",
+            "wind_speed_sustained": "12",
+            "temperature_apparent": "75",
+            "wind_speed_gust": "18",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T18:00:00-04:00",
+            "temperature_hourly": "72",
+            "wind_speed_sustained": "11",
+            "temperature_apparent": "72",
+            "wind_speed_gust": "17",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T19:00:00-04:00",
+            "temperature_hourly": "70",
+            "wind_speed_sustained": "11",
+            "temperature_apparent": "70",
+            "wind_speed_gust": "17",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T20:00:00-04:00",
+            "temperature_hourly": "68",
+            "wind_speed_sustained": "10",
+            "temperature_apparent": "68",
+            "wind_speed_gust": "16",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T21:00:00-04:00",
+            "temperature_hourly": "65",
+            "wind_speed_sustained": "10",
+            "temperature_apparent": "65",
+            "wind_speed_gust": "15",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/nsct.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T22:00:00-04:00",
+            "temperature_hourly": "64",
+            "wind_speed_sustained": "9",
+            "temperature_apparent": "64",
+            "wind_speed_gust": "15",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/nsct.jpg"
+        },
+        {
+            "valid_start": "2023-05-29T23:00:00-04:00",
+            "temperature_hourly": "62",
+            "wind_speed_sustained": "9",
+            "temperature_apparent": "62",
+            "wind_speed_gust": "14",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/nsct.jpg"
+        },
+        {
+            "valid_start": "2023-05-30T00:00:00-04:00",
+            "temperature_hourly": "60",
+            "wind_speed_sustained": "8",
+            "temperature_apparent": "60",
+            "wind_speed_gust": "13",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/nsct.jpg"
+        },
+        {
+            "valid_start": "2023-05-30T01:00:00-04:00",
+            "temperature_hourly": "59",
+            "wind_speed_sustained": "8",
+            "temperature_apparent": "59",
+            "wind_speed_gust": "13",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/nsct.jpg"
+        },
+        {
+            "valid_start": "2023-05-30T02:00:00-04:00",
+            "temperature_hourly": "58",
+            "wind_speed_sustained": "8",
+            "temperature_apparent": "58",
+            "wind_speed_gust": "12",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/nsct.jpg"
+        },
+        {
+            "valid_start": "2023-05-30T05:00:00-04:00",
+            "temperature_hourly": "55",
+            "wind_speed_sustained": "7",
+            "temperature_apparent": "55",
+            "wind_speed_gust": "10",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/nsct.jpg"
+        },
+        {
+            "valid_start": "2023-05-30T08:00:00-04:00",
+            "temperature_hourly": "59",
+            "wind_speed_sustained": "8",
+            "temperature_apparent": "59",
+            "wind_speed_gust": "12",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-05-30T11:00:00-04:00",
+            "temperature_hourly": "67",
+            "wind_speed_sustained": "8",
+            "temperature_apparent": "67",
+            "wind_speed_gust": "12",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-05-30T14:00:00-04:00",
+            "temperature_hourly": "71",
+            "wind_speed_sustained": "8",
+            "temperature_apparent": "71",
+            "wind_speed_gust": "12",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-05-30T17:00:00-04:00",
+            "temperature_hourly": "72",
+            "wind_speed_sustained": "8",
+            "temperature_apparent": "72",
+            "wind_speed_gust": "15",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-05-30T20:00:00-04:00",
+            "temperature_hourly": "66",
+            "wind_speed_sustained": "7",
+            "temperature_apparent": "66",
+            "wind_speed_gust": "11",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-05-31T02:00:00-04:00",
+            "temperature_hourly": "55",
+            "wind_speed_sustained": "3",
+            "temperature_apparent": "55",
+            "wind_speed_gust": "6",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/nsct.jpg"
+        },
+        {
+            "valid_start": "2023-05-31T08:00:00-04:00",
+            "temperature_hourly": "59",
+            "wind_speed_sustained": "3",
+            "temperature_apparent": "59",
+            "wind_speed_gust": "7",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-05-31T14:00:00-04:00",
+            "temperature_hourly": "77",
+            "wind_speed_sustained": "5",
+            "temperature_apparent": "77",
+            "wind_speed_gust": "9",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-05-31T20:00:00-04:00",
+            "temperature_hourly": "70",
+            "wind_speed_sustained": "8",
+            "temperature_apparent": "70",
+            "wind_speed_gust": "14",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-06-01T02:00:00-04:00",
+            "temperature_hourly": "62",
+            "wind_speed_sustained": "4",
+            "temperature_apparent": "62",
+            "wind_speed_gust": "6",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/nsct.jpg"
+        },
+        {
+            "valid_start": "2023-06-01T08:00:00-04:00",
+            "temperature_hourly": "66",
+            "wind_speed_sustained": "4",
+            "temperature_apparent": "66",
+            "wind_speed_gust": "6",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-06-01T14:00:00-04:00",
+            "temperature_hourly": "86",
+            "wind_speed_sustained": "6",
+            "temperature_apparent": "84",
+            "wind_speed_gust": "8",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/few.jpg"
+        },
+        {
+            "valid_start": "2023-06-01T20:00:00-04:00",
+            "temperature_hourly": "78",
+            "wind_speed_sustained": "7",
+            "temperature_apparent": "78",
+            "wind_speed_gust": "9",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/few.jpg"
+        },
+        {
+            "valid_start": "2023-06-02T02:00:00-04:00",
+            "temperature_hourly": "68",
+            "wind_speed_sustained": "6",
+            "temperature_apparent": "68",
+            "wind_speed_gust": "8",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/nfew.jpg"
+        },
+        {
+            "valid_start": "2023-06-02T08:00:00-04:00",
+            "temperature_hourly": "72",
+            "wind_speed_sustained": "6",
+            "temperature_apparent": "72",
+            "wind_speed_gust": "8",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/few.jpg"
+        },
+        {
+            "valid_start": "2023-06-02T14:00:00-04:00",
+            "temperature_hourly": "90",
+            "wind_speed_sustained": "10",
+            "temperature_apparent": "88",
+            "wind_speed_gust": "18",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-06-02T20:00:00-04:00",
+            "temperature_hourly": "83",
+            "wind_speed_sustained": "8",
+            "temperature_apparent": "82",
+            "wind_speed_gust": "14",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/hi_shwrs10.jpg"
+        },
+        {
+            "valid_start": "2023-06-03T02:00:00-04:00",
+            "temperature_hourly": "69",
+            "wind_speed_sustained": "8",
+            "temperature_apparent": "69",
+            "wind_speed_gust": "14",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/nsct.jpg"
+        },
+        {
+            "valid_start": "2023-06-03T08:00:00-04:00",
+            "temperature_hourly": "69",
+            "wind_speed_sustained": "8",
+            "temperature_apparent": "69",
+            "wind_speed_gust": "14",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-06-03T14:00:00-04:00",
+            "temperature_hourly": "79",
+            "wind_speed_sustained": "10",
+            "temperature_apparent": "79",
+            "wind_speed_gust": "15",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        },
+        {
+            "valid_start": "2023-06-03T20:00:00-04:00",
+            "temperature_hourly": "71",
+            "wind_speed_sustained": "10",
+            "temperature_apparent": "71",
+            "wind_speed_gust": "15",
+            "conditions-icon": "http://forecast.weather.gov/images/wtf/sct.jpg"
+        }
+    ]
+}
